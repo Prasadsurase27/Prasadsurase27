@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Prasadsurase27
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Prasad Surase
+- 👀 I’m interested in D
+- 🌱 I’m currently learning java,python,javascript,php.
+- 💞️ I’m looking to collaborate on java 
+- 📫 How to reach me prasadsurase27@gmail.com
 
 <!---
 Prasadsurase27/Prasadsurase27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
