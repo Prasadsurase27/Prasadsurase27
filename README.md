@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prasad Surase
-- 👀 I’m interested in java ,sql,python.
+- 👀 I’m interested in java, python, javaScript, MySQL.
 - 🌱 I’m currently learning java,python,javascript,php.
 - 💞️ I’m looking to collaborate on java 
 - 📫 How to reach me prasadsurase27@gmail.com
